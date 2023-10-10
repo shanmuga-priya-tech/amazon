@@ -7,7 +7,7 @@ import json
 
 app=Flask(__name__)
 CORS(app,origins="http://localhost:8080")
-client=MongoClient("mongodb+srv://shanpriya:SHANpriya2023@microblog.nj5juk6.mongodb.net/")
+client=MongoClient(" ")
 app.db=client.amazon
 
 
