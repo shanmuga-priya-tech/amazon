@@ -1,0 +1,13 @@
+div container :
+<div class="puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v3vtwxgppca0z12v18v51zrqona s-latency-cf-section s-card-border">
+title:
+<span class="a-size-medium a-color-base a-text-normal">Dell 14 Laptop, Intel Core i5-1135G7 Processor/ 16GB / 512GB SSD / 14.0" (35.54cm) FHD with Comfort View/Windows 11 + MSO'21/15 Month McAfee/Spill-Resistant Keyboard/Carbon Black Color/ 1.48kg</span>
+original price:
+<span "aria-hidden="true>₹66,349</span>
+current-price:
+<span class="a-offscreen">₹28,340</span>
+star-rating:
+<span class="a-icon-alt">3.9 out of 5 stars</span>
+image:
+<img class="s-image" src="https://m.media-amazon.com/images/I/71czGb00k5L._AC_UY218_.jpg" >
+relative url=./Amazon.in _ laptop_files/71k84usjNcL._AC_UY218_.jpg
